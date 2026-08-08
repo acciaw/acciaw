@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Acciaw 👋</h1>
 
-*   🔭 I'm currently working on **Voozenoo** (a complete rebuild of my mom's cooking blog from the ground up) and planning **Corrvélys** (a local AI auditing business).
+*   🔭 I'm currently working on **OpenMAD** (a complete rebuild of Madlions' web-based software for the MAD 68HE done through reverse engineering) and planning **Corrvélys** (a local AI auditing business).
 *   📫 How to reach me: Discord (@acciaw)
 
 <h2 align="center">Languages and Tools :man_technologist:</h2>
